@@ -1,0 +1,18 @@
+RETURN_SOURCE_DOCUMENTS: True
+VECTOR_COUNT: 2
+CHUNK_SIZE: 500
+CHUNK_OVERLAP: 50
+DATA_PATH: 'data'
+DB_FAISS_PATH: 'vectorstore\db_faiss'
+# MODEL_BIN_DIR: 'models'
+MAX_NEW_TOKENS: 512
+TEMPERATURE: 0.2
+DEVICE: 'cpu'
+# DRIVER: "psycopg2"
+# DB_HOST: 'localhost'
+# DB_PORT: 5433
+# DB_USER: 'postgres'
+# DB_PASSWORD: 1234
+# DB_NAME: 'chat-bot'
+PALLM_API: 'AIzaSyAv5jmX3j3utT5ewZXAmJEf-ShG3eurDuU'
+# DB_COLLECTION_NAME: 'document_embeddings' 
