@@ -14,5 +14,4 @@ DEVICE: 'cpu'
 # DB_USER: 'postgres'
 # DB_PASSWORD: 1234
 # DB_NAME: 'chat-bot'
-PALLM_API: 'AIzaSyAv5jmX3j3utT5ewZXAmJEf-ShG3eurDuU'
 # DB_COLLECTION_NAME: 'document_embeddings' 
